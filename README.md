@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthikgowdams03
+- 👋 Hi, I’m Karthik Gowda M S
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me karthikgowdams27@gmail.com
