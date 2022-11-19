@@ -11,11 +11,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karthikgowdams03&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgowdams03&hide_border=true&theme=radical" />
 </p>
-<p align="center">
-   <img src="https://github.com/karthikgowdams03/karthikgowdams03/blob/output/github-contribution-grid-snake.svg" alt="snake">
+
+<p align = "left" ><br> 
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgowdams03&layout=compact&hide_border=true&theme=radical" />
 </p>
-
-
 
 <!--
 karthikgowdams03/karthikgowdams03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
