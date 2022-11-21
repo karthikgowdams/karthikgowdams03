@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karthik Gowda M S
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA in C++
 - 📫 How to reach me
 
 [![icons8-linkedin-2](https://user-images.githubusercontent.com/100849696/197336413-affeddd1-513a-4f55-848b-77197d6f5311.svg)](https://www.linkedin.com/in/karthikgowdams03)&nbsp;
