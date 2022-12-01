@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthik Gowda M S
-- 👀 I’m interested in Full Stack Development
+- 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning DSA in C++
 - 📫 How to reach me
 
