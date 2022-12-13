@@ -7,9 +7,9 @@
 [![icons8-instagram](https://user-images.githubusercontent.com/100849696/197336416-1ed0f6e8-da4a-4c2b-a008-fd0e8bf49da0.svg)](https://www.instagram.com/karthikgowdams03)&nbsp;
 [![icons8-twitter](https://user-images.githubusercontent.com/100849696/197336404-f0676e26-dde7-472f-949a-e390bba3eac5.svg)](https://twitter.com/karthikgowdams3)
 
-</p>
+<!--</p>
   <a href="https://komarev.com/ghpvc/?username=karthikgowdams03&color=blue"><img src="https://komarev.com/ghpvc/?username=karthikgowdams03&color=blue"></a>
-</p>
+</p>-->
 
   ## Stats
   
