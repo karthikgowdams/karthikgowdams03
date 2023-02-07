@@ -1,17 +1,19 @@
-- 👋 Hi, I’m Karthik Gowda M S
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning DSA in C++ And Front-End Web Development
-- 📫 How to reach me
+<h1 align="center">Hi 👋, I'm Karthik Gowda M S</h1>
 
-[![icons8-linkedin-2](https://user-images.githubusercontent.com/100849696/197336413-affeddd1-513a-4f55-848b-77197d6f5311.svg)](https://www.linkedin.com/in/karthikgowdams03)&nbsp;
-[![icons8-instagram](https://user-images.githubusercontent.com/100849696/197336416-1ed0f6e8-da4a-4c2b-a008-fd0e8bf49da0.svg)](https://www.instagram.com/karthikgowdams03)&nbsp;
-[![icons8-twitter](https://user-images.githubusercontent.com/100849696/197336404-f0676e26-dde7-472f-949a-e390bba3eac5.svg)](https://twitter.com/karthikgowdams3)
+- 👀 Interested in **Full Stack Web Development**
 
-<!--</p>
-  <a href="https://komarev.com/ghpvc/?username=karthikgowdams03&color=blue"><img src="https://komarev.com/ghpvc/?username=karthikgowdams03&color=blue"></a>
-</p>-->
+- 🌱 I’m currently learning **DSA in C++ and Front-End Web Development**
 
-  ## Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antrikshnarang&label=Profile%20Visits&color=0e75b6&style=flat" alt="antrikshnarang" /> </p>
+
+## Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/karthikgowdams03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikgowdams03" height="30" width="40" /></a>
+<a href="https://instagram.com/karthikgowdams03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikgowdams03" height="30" width="40" /></a>
+<a href="https://twitter.com/karthikgowdams3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthikgowdams3" height="30" width="40" /></a>
+</p>
+
+ ## Stats
   
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karthikgowdams03&show_icons=true&hide_border=true&theme=radical" />
