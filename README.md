@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **DSA in C++ and Front-End Web Development**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antrikshnarang&label=Profile%20Visits&color=0e75b6&style=flat" alt="antrikshnarang" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikgowdams03&label=Profile%20Visits&color=0e75b6&style=flat" alt="karthikgowdams03" /> </p>
 
 ## Connect with me
 <p align="left">
