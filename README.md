@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik Gowda M S</h1>
 
-- 👀 Interested in **Full Stack Web Development**
+- 👀 Interested in **Full Stack Web Development, Machine Learning**
 
 - 🌱 I’m currently learning **DSA in C++ and Front-End Web Development**
 
