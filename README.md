@@ -2,7 +2,7 @@
 
 - 👀 Interested in **Full Stack Web Development and Machine Learning**
 
-- 🌱 I’m currently learning **DSA in C++ and Front-End Web Development**
+- 🌱 I’m currently learning **DSA in C++ and Full Stack Web Development**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikgowdams03&label=Profile%20Visits&color=0e75b6&style=flat" alt="karthikgowdams03" /> </p>
 
