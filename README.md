@@ -38,6 +38,3 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColo
 <p align = "left" ><br> 
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgowdams03&layout=compact&hide_border=true&theme=radical" />
 </p>
-
-
-
