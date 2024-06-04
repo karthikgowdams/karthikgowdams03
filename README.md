@@ -38,5 +38,5 @@ src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColo
 ## Most used languages
 
 <p align = "left" ><br> 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgowdams&langs_count=8&theme=radical&layout=compact&hide_border=true" />
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgowdams&langs_count=5&theme=radical&layout=compact&hide_border=true" />
 </p>
