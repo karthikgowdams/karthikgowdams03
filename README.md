@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karthik Gowda M S</h1>
-<!--
-- 👀 Interested in **Full Stack Web Development and Machine Learning**
---><!--
-- 🌱 I’m currently learning **DSA in C++ and Full Stack Web Development**
--->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikgowdams&label=Profile%20Visits&color=0e75b6&style=flat" alt="karthikgowdams" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikgowdams03&label=Profile%20Visits&color=0e75b6&style=flat" alt="karthikgowdams" /> </p>
 
 ## Connect with me
 <p align="left">
@@ -15,28 +11,48 @@
 <a href="https://x.com/mskarthikgowda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mskarthikgowda" height="30" width="40" /></a>
 </p>
 
- ## Stats
+
   
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karthikgowdams&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgowdams&hide_border=true&theme=radical" />
-</p>
+    <i> 📈 GitHub Stats</i>
  
-<!--## Programming languages
-
-<p>
-      <a href="https://github.com/search?q=user%3Akarthikgowdams+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3Akarthikgowdams+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3Akarthikgowdams+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3Akarthikgowdams+language%3Acss"><img alt="CSS"
-src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3Akarthikgowdams+language%3Ajavascript"><img alt="JavaScript"
-src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white"></a>
+   <p align="center">
+            <a href="https://github.com/karthikgowdams?tab=repositories" target="_blank" rel="noreferrer"><img width="48.0%" src="https://github-readme-stats.vercel.app/api?username=karthikgowdams&show_icons=true&theme=radical&hide_border=true"/></a>
+            <a href="https://github.com/karthikgowdams?tab=repositories" target="_blank" rel="noreferrer"><img width="50.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikgowdams&show_icons=true&theme=radical&hide_border=true" /></a>
+    </p>
 </p>
--->
 
-## Most used languages
+<hr>
+<p align="center">
+   <i>🔨Languages and Tools used ⚒</i>
+ 
+   <p align="center">
+        <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c"  alt="C" /></a>
+        <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp"  alt="C++" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></a> 
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs"  alt="NodeJS" /></a>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express"  alt="Express" /></a>
+        <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react"  alt="React" /></a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql"alt="MySQL" /></a>
+        <br>
+        <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure"alt="Azure" /></a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
+        <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion"  alt="Notion" /></a>
+   </p>
+  <p align = "center" ><br> 
+        <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgowdams&langs_count=5&theme=radical&layout=compact&hide_border=true" />
+  </p>
+</p>
 
-<p align = "left" ><br> 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikgowdams&langs_count=5&theme=radical&layout=compact&hide_border=true" />
+<hr>
+ <p align="center">
+  <i> 📌 Holopin Badge Board </i>
+  
+  [![An image of @karthikgowdams03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthikgowdams03)](https://holopin.io/@karthikgowdams03)
 </p>
