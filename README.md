@@ -58,4 +58,4 @@
 </p>
 
 <!-- Snake animation section -->
-<img src="https://raw.githubusercontent.com/karthikgowdams/karthikgowdams/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/KarthikGowdaMS/karthikgowdams/blob/output/snake.svg" alt="Snake animation" />
