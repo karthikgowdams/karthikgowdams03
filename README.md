@@ -24,7 +24,7 @@
 
 <hr>
 <p align="center">
-   <i>🔨Languages and Tools used ⚒</i>
+   <i>🔨Languages and Tools</i>
  
    <p align="center">
         <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c"  alt="C" /></a>
@@ -57,5 +57,12 @@
   [![An image of @karthikgowdams03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthikgowdams03)](https://holopin.io/@karthikgowdams03)
 </p>
 
-<!-- Snake animation section -->
+<!-- Snake animation -->
 <img src="https://github.com/KarthikGowdaMS/karthikgowdams/blob/output/snake.svg" alt="Snake animation" />
+
+<p align="center">
+   <i>Support</i>
+  <p align="center">
+   <a href="https://www.buymeacoffee.com/karthikgowdams"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+  </p>
+</p>
