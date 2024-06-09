@@ -56,3 +56,6 @@
   
   [![An image of @karthikgowdams03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthikgowdams03)](https://holopin.io/@karthikgowdams03)
 </p>
+
+<!-- Snake animation section -->
+<img src="https://raw.githubusercontent.com/karthikgowdams/karthikgowdams/output/snake.svg" alt="Snake animation" />
