@@ -18,7 +18,8 @@
 
    </p>
 </p>
-  <hr>
+
+<hr>
 
 <p align="center">
     <i> 📈 GitHub Stats</i>
@@ -29,7 +30,7 @@
     </p>
 </p>
 
-<hr>
+
 <p align="center">
    <i>🔨Languages and Tools</i>
  
