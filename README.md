@@ -1,9 +1,22 @@
-<h1 align="center">Hi 👋, I'm Karthik Gowda M S</h1>
+<h1 align="center"> Hello 👋, I'm Karthik Gowda M S</h1>
+
+<p>A pre final year Computer Science student at the National Institute of Engineering, Mysore. I'm a full-stack Web Developer with interest in the field of Machine Learning. </p>
+
+- 🔍 **Currently Learning:** 
+    - React
+    - Azure
+    - Docker
+- 🧠 **Interests:** Machine Learning, Gen AI
+
+💬 Ask me about JavaScript, Nodejs, Express 
+
+I have worked in the MERN stack to build various apps on the web and have also collaborated with my team in building innovative apps together.
+<br>
+Find out more about me here:
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikgowdams03&label=Profile%20Visits&color=0e75b6&style=flat" alt="karthikgowdams" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikgowdams03&label=Profile%20Visits&color=0e75b6&style=flat" alt="karthikgowdams" /> </p>
+-->
 
 
 <p align="center">
