@@ -15,7 +15,9 @@ I have worked in the MERN stack to build various apps on the web and have also c
 Find out more about me here:
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikgowdams&label=Profile%20Visits&color=0e75b6&style=flat" alt="karthikgowdams" /> 
+<p align="left"> <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=KarthikGowdaMS&label=Profile%20Views&color=5&icon=8&pretty=false" />
+</a>
 </p>
 
 
